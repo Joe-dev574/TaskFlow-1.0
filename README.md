@@ -20,7 +20,7 @@
 
 ## About
 
-After 30 years at Weld Manufacturing Operations—where I thrived as a Weld Engineer and served as VP of Operations and Quality—I traded metal manufacturing for code. I also cut my teeth as a Recon soldier with the 10th Mountain LRSD, sharpening my discipline under pressure. *TaskFlow 1.0* is my MVP, a nod to those roots: hands-on problem-solving fused with user-focused design. As a former SaaS user frustrated by clunky, costly tools—burdened by overhead that steals time and money, often both—I’m crafting something better: simple, effective, and export-ready—no bloat to manage the management—just pure flow. I’m 40 days from App Store launch as of April 2, 2025, blending decades of precision with modern iOS innovation.
+After 30 years at Weld Manufacturing Operations—where I thrived as a Weld Engineer and served as VP of Operations and Quality—I traded metal manufacturing for code. *TaskFlow 1.0* is my MVP, a nod to those roots: hands-on problem-solving fused with user-focused design. As a former SaaS user frustrated by clunky, costly tools—burdened by overhead that steals time and money, often both—I’m crafting something better: simple, effective, and export-ready—no bloat to manage the management—just pure flow. I’m 40 days from App Store launch as of April 2, 2025, blending decades of precision with modern iOS innovation.
 
 ## Features
 
