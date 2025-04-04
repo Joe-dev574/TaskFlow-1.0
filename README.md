@@ -32,11 +32,10 @@ After 30 years at Weld Manufacturing Operations—where I thrived as a Weld Engi
 
 ## Screenshots
 
-*(Crafted with TaskFlow’s signature colors like `#F8DD8D` Light Blue and `#FFDA96` Pale Yellow)*
+*(Crafted with TaskFlow’s signature colors like `#F8DD8D` Light Blue, `#FFDA96` Pale Yellow, and `#D74100` Dark Orange)*
 
 | Task Tracking | Dates | Metrics |
 |---------------|-------|---------|
-| ![Task Tracking](https://via.placeholder.com/150x300/F8DD8D/000000?text=Tasks) | ![Dates](https://via.placeholder.com/150x300/FFDA96/000000?text=Dates) | ![Metrics](https://via.placeholder.com/150x300/D74100/FFFFFF?text=Metrics) |
+| ![Task Tracking](https://github.com/Joe-dev574/TaskFlow55/raw/main/screenshots/task-tracking.png) | ![Dates](https://github.com/Joe-dev574/TaskFlow55/raw/main/screenshots/light-modeTF.png) | ![Metrics](https://github.com/Joe-dev574/TaskFlow55/raw/main/screenshots/darkmode.png) |
 
-*Check back soon—I’m continuously adding and polishing for App Store glory!*
-
+*Freshly forged—I’m continuously polishing these for App Store glory!*
